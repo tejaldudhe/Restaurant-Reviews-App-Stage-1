@@ -247,7 +247,7 @@ label {
   min-height: 380px;
   padding: 0 30px 25px;
   text-align: left;
-  min-width: 270px;
+  min-width: 100%;
   max-width: 300px;
 }
 
